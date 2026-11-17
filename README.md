@@ -71,6 +71,4 @@ Hi there, I'm **Israel** 👋, some people call me **Uriah** or **Izzy**
 </div>
 
 ## Find Me Online
-
-- [GitHub](https://github.com/israellamarr/)
 - [LinkedIn](https://www.linkedin.com/in/israel-lamarr/)
