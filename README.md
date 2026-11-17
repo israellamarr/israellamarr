@@ -70,11 +70,6 @@ Hi there, I'm **Israel** 👋, some people call me **Uriah** or **Izzy**
 
 </div>
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israellamarr&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=israellamarr&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Profile Views
 
 ![Profile Views](https://profile-counter.glitch.me/israellamarr/count.svg)
