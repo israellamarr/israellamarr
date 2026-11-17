@@ -1,11 +1,11 @@
 Hi there, I'm **Israel** 👋, some people call me **Uriah** or **Izzy**
 
-## About Me 🚀
+## About Me 
 
-- 💡 I'm a Senior Software Engineer with 11+ years of experience.
+- 🦙 I'm a Senior Software Engineer with 11+ years of experience.
 - 🎸 I'm a musician. My solo stuff: [Spider in the Lace](https://open.spotify.com/artist/6NZknM4XPrxIflAQaQDtC1). My band: [Wild Trees](https://open.spotify.com/artist/757NpmcheO01YRyMl9XisW).
-- 🌱 I'm always trying to learn new things and build. Software, computers, music, language (currently 中文, passively Gaeilge).
-- 🍺 Currently based in Raleigh, NC. Goals of living in Ireland since 2019.
+- 🗿 I'm always trying to learn new things and build. Software, computers, music, language (currently 中文, passively Gaeilge).
+- 🧚🏽‍♀️ Currently based in Raleigh, NC. Goals of living in Ireland since 2019.
 
 ## My Tech Stack
 
