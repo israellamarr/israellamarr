@@ -70,10 +70,6 @@ Hi there, I'm **Israel** 👋, some people call me **Uriah** or **Izzy**
 
 </div>
 
-## Profile Views
-
-![Profile Views](https://profile-counter.glitch.me/israellamarr/count.svg)
-
 ## Find Me Online
 
 - [GitHub](https://github.com/israellamarr/)
